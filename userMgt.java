@@ -1,3 +1,9 @@
 landmark
 simon
 dominion
+HEAD
+Ayo
+Obi
+datti
+Legah
+manager
