@@ -7,3 +7,5 @@ Obi
 datti
 Legah
 manager
+shola
+dele
