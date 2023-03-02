@@ -3,6 +3,5 @@ simon
 dominion
 Ayo
 Obi
-datti
-Legah
-
+Manager
+Datti
